@@ -1,0 +1,26 @@
+#wrapper, #loginform {
+    margin:0 auto;
+    padding-bottom:25px;
+    background:#EBF4FB;
+    border:1px solid #ACD8F0; }
+  
+#loginform { padding-top:18px; }
+  
+    #loginform p { margin: 5px; }
+  
+#chatbox {
+    text-align:left;
+    margin:0 auto;
+    margin-bottom:25px;
+    padding:10px;
+    background:#fff;
+    width:97%;
+    border:1px solid #ACD8F0;
+    overflow:auto; }
+.list-group-item{
+   margin-bottom: 1%;
+}
+
+.uno{
+    padding: 2%;
+}
